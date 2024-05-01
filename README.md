@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @KalgiSheth
+👋 Hi, I’m @KalgiSheth
 
 <!---
 KalgiSheth/KalgiSheth is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
